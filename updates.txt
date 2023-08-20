@@ -1,0 +1,12 @@
+----------------0.0.1-----------------
+@+ add main functions
+----------------0.0.2-----------------
+@+ some error tratament
+@- remove isrunning function
+$ mudences in the event functions
+----------------0.0.4----------------
+@+ images load and draw functions
+@+ text load and draw functions
+@+ delay time and dt
+$ background color default
+$ update and render functions positions
